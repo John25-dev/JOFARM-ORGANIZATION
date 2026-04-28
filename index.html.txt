@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jofarm Business Management</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-800">
+
+  <header class="bg-green-700 text-white p-6 shadow-md">
+    <div class="container mx-auto flex justify-between items-center">
+      <h1 class="text-2xl font-bold">Jofarm</h1>
+      <nav>
+        <a href="#features" class="px-3 hover:underline">Features</a>
+        <a href="#login" class="px-3 hover:underline">Login</a>
+        <a href="#register" class="px-3 hover:underline">Register</a>
+        <a href="#transaction" class="px-3 hover:underline">Transaction</a>
+      </nav
